@@ -71,6 +71,7 @@ Source: Global Superstore Dataset
 * Screenshots – Dashboard preview
 Dashboard 1.png
 Dashboard 2.png
+Dashboard 3.png
 ---
 
 ## 🚀 Outcome
