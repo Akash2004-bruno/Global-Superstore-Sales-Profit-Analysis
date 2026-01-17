@@ -69,7 +69,7 @@ Source: Global Superstore Dataset
 * `Global-Superstore.csv` – Dataset
 * `.pbix` – Power BI report file
 * Screenshots – Dashboard preview
-
+Dashboard 1.png
 ---
 
 ## 🚀 Outcome
